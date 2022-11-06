@@ -26,3 +26,11 @@ Create an endpoint that allows a user to filter the comments based on all the av
 
 - Once completed, send us a screenshot of your api response for Question 1 & 2. 
 - Make your repo public, and send us the link for us to review
+
+## Result
+
+- Question 1
+![Question 1](https://user-images.githubusercontent.com/112968565/200191894-6edd655d-15cc-422e-a3f5-9257e824bf17.PNG)
+
+- Question 2
+![Question 2](https://user-images.githubusercontent.com/112968565/200191854-9119e968-06c6-4bb0-9399-6c6599c94505.PNG)
